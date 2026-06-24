@@ -1,7 +1,7 @@
-# homebrew-claudebar
+# homebrew-tachybar
 
-Homebrew tap for [ClaudeBar](https://github.com/tozzilla/claudebar) — a macOS menu bar app showing live Claude usage.
+Homebrew tap for [TachyBar for AI](https://github.com/tozzilla/tachybar) — a macOS menu bar app showing live Claude usage.
 
 ```bash
-brew install --cask tozzilla/claudebar/claudebar
+brew install --cask tozzilla/tachybar/tachybar
 ```
