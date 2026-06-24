@@ -1,6 +1,6 @@
 cask "tachybar" do
-  version "1.1.1"
-  sha256 "73e680202b6126b3c77b9a377bbb3f20b45a501464945b24fe896b63cfc4f3ad"
+  version "1.2.0"
+  sha256 "7eafd558e13be623fa8cb78efd452bbd66d60b7ac71762ad46b7ee5f750fb4fb"
 
   url "https://github.com/tozzilla/tachybar/releases/download/v#{version}/TachyBar-#{version}.zip"
   name "TachyBar for AI"
