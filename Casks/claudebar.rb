@@ -7,7 +7,7 @@ cask "claudebar" do
   desc "Menu bar app showing live Claude usage (session/weekly limits, resets, credits)"
   homepage "https://github.com/tozzilla/claudebar"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
   depends_on arch: :arm64
 
   app "ClaudeBar.app"
